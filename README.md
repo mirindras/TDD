@@ -1,4 +1,4 @@
-# DATA SCIENCE AVEC RUBY
+
 
 c'est un projet dans le cadre de notre formation à SAYNA.
 
